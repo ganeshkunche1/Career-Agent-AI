@@ -1,0 +1,11 @@
+email_subject,email_from,email_date,email_message_id,email_body,expected_is_opportunity,expected_type,expected_deadline_note
+"Aurora Labs Internship applications","careers@aurora.example","2026-09-01T09:00:00Z","synthetic-internship-001","Aurora Labs invites applications for a software internship. Apply by 2026-09-20. Remote. Python experience preferred.",true,"Internship","2026-09-20"
+"Vertex Systems graduate role","talent@vertex.example","2026-09-02T09:00:00Z","synthetic-job-002","Vertex Systems is hiring an entry-level backend engineer. Applications close September 30 2026. Hybrid in Example City.",true,"Job","2026-09-30"
+"Build Tomorrow Hackathon","events@buildtomorrow.example","2026-09-03T09:00:00Z","synthetic-hackathon-003","Join the Build Tomorrow Hackathon. Register before 2026-09-18. Teams may use AI tools.",true,"Hackathon","2026-09-18"
+"Northstar Fellowship","programs@northstar.example","2026-09-04T09:00:00Z","synthetic-fellowship-004","The Northstar Fellowship supports early career technologists. Deadline: 2026-10-05.",true,"Fellowship","2026-10-05"
+"Your fictional order receipt","billing@shop.example","2026-09-05T09:00:00Z","synthetic-irrelevant-005","Thank you for your order. Your package will ship soon.",false,"Not applicable","Not applicable"
+"Learning grant announcement","grants@learning.example","2026-09-06T09:00:00Z","synthetic-no-deadline-006","A learning grant is open for applicants interested in cloud computing. See the program page for timing.",true,"Scholarship","Not specified"
+"<b>Code camp invitation</b>","team@codecamps.example","2026-09-07T09:00:00Z","synthetic-html-007","<p>Apply to the fictional code camp.</p><p>Deadline: 2026-09-25.</p>",true,"Other","2026-09-25"
+"",,"","synthetic-missing-fields-008","Opportunity: community technology apprenticeship. Details to follow.",true,"Apprenticeship","Not specified"
+"Maybe useful event","news@events.example","2026-09-08T09:00:00Z","synthetic-ambiguous-009","We may host a career discussion soon. No application or date has been announced.",false,"Not applicable","Not applicable"
+"Aurora Labs Internship applications","careers@aurora.example","2026-09-01T09:00:00Z","synthetic-internship-001","Duplicate fixture with the same stable message ID.",true,"Internship","Must not append a second row"
