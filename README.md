@@ -542,6 +542,6 @@ This project can be released under the **MIT License**.
 
 ---
 
-### Career Agent AI
+### Career Agent AI 
 
-**Discover. Analyze. Prioritize. Act.**
+**by GAnesH....**
